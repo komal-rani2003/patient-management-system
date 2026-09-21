@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "personal_info": {
+            "name": "Rahul Sharma",
+            "age": 25,
+            "gender": "Male",
+            "contact": {
+                "phone": "9876543210",
+                "email": "rahul@gmail.com"
+            }
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "pincode": "700001"
+        },
+        "medical_info": {
+            "height": 175.0,
+            "weight": 70.0,
+            "blood_group": "B+",
+            "allergies": [
+                "Dust"
+            ],
+            "bmi": 22.86,
+            "bmi_category": "Normal"
+        }
+    },
+    {
+        "id": 2,
+        "personal_info": {
+            "name": "string",
+            "age": 120,
+            "gender": "Male",
+            "contact": {
+                "phone": "9986417896",
+                "email": "user@example.com"
+            }
+        },
+        "address": {
+            "city": "string",
+            "state": "string",
+            "pincode": "920515"
+        },
+        "medical_info": {
+            "height": 65.0,
+            "weight": 2.0,
+            "blood_group": "A+",
+            "allergies": [
+                "string"
+            ],
+            "bmi": 4.73,
+            "bmi_category": "Underweight"
+        }
+    },
+    {
+        "id": 3,
+        "personal_info": {
+            "name": "Arjun gada",
+            "age": 45,
+            "gender": "Male",
+            "contact": {
+                "phone": "8987654321",
+                "email": "arjun.mehta@gmail.com"
+            }
+        },
+        "address": {
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "pincode": "560001"
+        },
+        "medical_info": {
+            "height": 180.0,
+            "weight": 92.0,
+            "blood_group": "O+",
+            "allergies": [
+                "Pollen",
+                "Dust"
+            ],
+            "bmi": 28.4,
+            "bmi_category": "Overweight"
+        }
+    },
+    {
+        "id": 4,
+        "personal_info": {
+            "name": "Test Patient",
+            "age": 25,
+            "gender": "Male",
+            "contact": {
+                "phone": "9876543210",
+                "email": "test@gmail.com"
+            }
+        },
+        "address": {
+            "city": "Kolkata",
+            "state": "West Bengal",
+            "pincode": "700001"
+        },
+        "medical_info": {
+            "height": 175.0,
+            "weight": 70.0,
+            "blood_group": "B+",
+            "allergies": [
+                "Dust"
+            ],
+            "bmi": 22.86,
+            "bmi_category": "Normal"
+        }
+    },
+    {
+        "id": 5,
+        "personal_info": {
+            "name": "Bani ",
+            "age": 23,
+            "gender": "Female",
+            "contact": {
+                "phone": "8765432111",
+                "email": "qwert@gmail.com"
+            }
+        },
+        "address": {
+            "city": "jadugoda",
+            "state": "jharkhand",
+            "pincode": "123123"
+        },
+        "medical_info": {
+            "height": 155.0,
+            "weight": 55.0,
+            "blood_group": "A+",
+            "allergies": [
+                "dust"
+            ],
+            "bmi": 22.89,
+            "bmi_category": "Normal"
+        }
+    }
+]
